@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "updated": "2026-07-17T14:51:37Z",
+  "updated": "2026-07-17T18:06:32Z",
   "files": [
     {
       "path": "windows-aarch64/liberica.json",
       "vendor": "liberica",
       "os": "windows",
       "arch": "aarch64",
-      "size": 1181,
-      "sha256": "42387b899a8a7f3276087d7f866ed3a14123ed2ca792dff2ae5049421b2ff2ba"
+      "size": 38002,
+      "sha256": "8535fd3544bea26b24cd00d2f4de744d4dae8b711a3f10677fa0173a8207542c"
     },
     {
       "path": "windows-aarch64/microsoft.json",
@@ -31,16 +31,16 @@
       "vendor": "zulu",
       "os": "windows",
       "arch": "aarch64",
-      "size": 16081,
-      "sha256": "608a4083466f7f47e998eb60bdabab146448f761b3f62e2aa99c13911cd91244"
+      "size": 16430,
+      "sha256": "7afcfae3c4786ace727eecefadafe7b0e1306e62d5e30bd27fd03c3ace2892f7"
     },
     {
       "path": "windows-x64/corretto.json",
       "vendor": "corretto",
       "os": "windows",
       "arch": "x64",
-      "size": 1149,
-      "sha256": "7a243a8eea3ae40fce137bdf491a5026ac10965e99dc7910990c26c98d196d7b"
+      "size": 48435,
+      "sha256": "88890a8c8075ec6fef00ae91dcba96e2e725f440f14c2ebcd0c0629add7f3fc1"
     },
     {
       "path": "windows-x64/graalvm.json",
@@ -55,8 +55,8 @@
       "vendor": "liberica",
       "os": "windows",
       "arch": "x64",
-      "size": 1163,
-      "sha256": "3555de94574267155459ea9678faceed6fab2c880e69e9ff27dc100098a07596"
+      "size": 56760,
+      "sha256": "f39e160d834a410fd0969a3059a44a528e08afd4272d72be567d3ac30e14dcbf"
     },
     {
       "path": "windows-x64/microsoft.json",
@@ -79,8 +79,8 @@
       "vendor": "zulu",
       "os": "windows",
       "arch": "x64",
-      "size": 91202,
-      "sha256": "1fd83d8cb4bcb219406fa64aaff4dae6508a0345bf7e5336b352c4f20a6d7ae3"
+      "size": 121064,
+      "sha256": "f4bec3bb1566eb574e77a1871a3f94cc62fccc2f335540700422ac4f95e0ecd0"
     }
   ]
 }
