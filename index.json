@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-20T06:27:06Z",
+  "updated": "2026-07-21T06:07:09Z",
   "files": [
     {
       "path": "windows-aarch64/liberica.json",
@@ -23,8 +23,8 @@
       "vendor": "temurin",
       "os": "windows",
       "arch": "aarch64",
-      "size": 3803,
-      "sha256": "f0850ba9421a95898afe6242a16b947e2305a2746e7123e996c954e8ce0ce80f"
+      "size": 9065,
+      "sha256": "a1b7629d0055f3a1646144241205bb03bc1e251c32d7bd960ae8fac1483ff2d7"
     },
     {
       "path": "windows-aarch64/zulu.json",
@@ -47,8 +47,8 @@
       "vendor": "graalvm",
       "os": "windows",
       "arch": "x64",
-      "size": 12128,
-      "sha256": "563415e4d666eb416f870ce0d29828fdb3e49dbbbdccb3f9540df931767eadc2"
+      "size": 14225,
+      "sha256": "e58ed0385855bec2d90b6c2ebf55ef629a24a9c97a57e677e7f7860bd2b6b3ad"
     },
     {
       "path": "windows-x64/liberica.json",
@@ -79,16 +79,16 @@
       "vendor": "temurin",
       "os": "windows",
       "arch": "x64",
-      "size": 42920,
-      "sha256": "65024054d847d2a120ce336ef1f860166ae25aedbafdac13e21a022509239633"
+      "size": 49391,
+      "sha256": "bde4c7d81694bf091fa0d60b17f26b8d8874895862b154fcd9cf9a6d18412564"
     },
     {
       "path": "windows-x64/zulu.json",
       "vendor": "zulu",
       "os": "windows",
       "arch": "x64",
-      "size": 121064,
-      "sha256": "f4bec3bb1566eb574e77a1871a3f94cc62fccc2f335540700422ac4f95e0ecd0"
+      "size": 127081,
+      "sha256": "73543d7704c57da192b51b2516f60d01af4b416c4ddd536237e988389be26c06"
     }
   ]
 }
