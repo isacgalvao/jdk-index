@@ -14,6 +14,18 @@
   {
     "tool": "java",
     "vendor": "graalvm",
+    "version": "25.0.4",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 362420067,
+    "sha256": "5198b29a6448cb72b9a3cef10866723e2d1e2ec4799561a344e032bb7c61e555",
+    "url": "https://download.oracle.com/graalvm/25/archive/graalvm-jdk-25.0.4_windows-x64_bin.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "graalvm",
     "version": "25.0.3-ea+32",
     "os": "windows",
     "arch": "x64",
@@ -214,6 +226,18 @@
     "size": 342721839,
     "sha256": "1aba8b1c57cd98c07fd993a4d3f10de57640c50f513af66d4395e57d22266f02",
     "url": "https://download.oracle.com/graalvm/22/archive/graalvm-jdk-22_windows-x64_bin.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "graalvm",
+    "version": "21.0.12",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 324662676,
+    "sha256": "7560971e52b236ddba7a22e7a682a9a185e56a2f6ee9cd6c4ecbb800e9643990",
+    "url": "https://download.oracle.com/graalvm/21/archive/graalvm-jdk-21.0.12_windows-x64_bin.zip"
   },
   {
     "tool": "java",
