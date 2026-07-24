@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-23T06:11:05Z",
+  "updated": "2026-07-24T06:05:15Z",
   "files": [
     {
       "path": "windows-aarch64/liberica.json",
@@ -24,7 +24,7 @@
       "os": "windows",
       "arch": "aarch64",
       "size": 9065,
-      "sha256": "a1b7629d0055f3a1646144241205bb03bc1e251c32d7bd960ae8fac1483ff2d7"
+      "sha256": "040dd00678384bd19caf0699f88fa6af3edc11d4b2e6bd36682d4e7ea0a01fb7"
     },
     {
       "path": "windows-aarch64/zulu.json",
@@ -80,7 +80,7 @@
       "os": "windows",
       "arch": "x64",
       "size": 49391,
-      "sha256": "b1c20ae56f570f0afa1bad4a200ea5239a0871964d10b6817573290563decdb8"
+      "sha256": "93332578396839728a2b6b99ef4a4892798cc7faec9bcc649a0f8c7aa7cf71be"
     },
     {
       "path": "windows-x64/zulu.json",
