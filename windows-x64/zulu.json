@@ -2,14 +2,14 @@
   {
     "tool": "java",
     "vendor": "zulu",
-    "version": "27-ea+30",
+    "version": "27-ea+32",
     "os": "windows",
     "arch": "x64",
     "release_status": "ea",
     "lts": false,
-    "size": 231748102,
-    "sha256": "cd2041d1e8556de50bd614f7016d18120df1c38fef8fc5e353b2f2aa3a4a2f8b",
-    "url": "https://cdn.azul.com/zulu/bin/zulu27.0.43-beta-jdk27.0.0-beta.30-win_x64.zip"
+    "size": 0,
+    "sha256": "1b989e407dedc1ece3388feb10e8fc3b216898ae4f6919e31949e9f61361b8a5",
+    "url": "https://cdn.azul.com/zulu/bin/zulu27.0.47-beta-jdk27.0.0-beta.32-win_x64.zip"
   },
   {
     "tool": "java",
