@@ -110,6 +110,18 @@
   {
     "tool": "java",
     "vendor": "temurin",
+    "version": "21.0.12+8",
+    "os": "windows",
+    "arch": "aarch64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 192677972,
+    "sha256": "e7ddf1cf45885cae2cfb8a018db60b0041ef69e96843b93a92b447d9a4cba676",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.12_8.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "temurin",
     "version": "21.0.12-ea+8",
     "os": "windows",
     "arch": "aarch64",

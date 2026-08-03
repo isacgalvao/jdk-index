@@ -1214,6 +1214,18 @@
   {
     "tool": "java",
     "vendor": "temurin",
+    "version": "8.0.502+7",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 106454869,
+    "sha256": "3f193fe5e36409c564eb3b7668cb33cab96aa5879d9b284f25f8653e993b1c49",
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u502-b07/OpenJDK8U-jdk_x64_windows_hotspot_8u502b07.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "temurin",
     "version": "8.0.502-ea+7",
     "os": "windows",
     "arch": "x64",
