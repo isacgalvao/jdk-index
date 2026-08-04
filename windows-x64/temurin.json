@@ -26,6 +26,18 @@
   {
     "tool": "java",
     "vendor": "temurin",
+    "version": "26.0.2+10",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": false,
+    "size": 144395828,
+    "sha256": "0b532502e29a5d2babe608069f6df2423ae5e1aa714b715b560217cf8c6ce8ff",
+    "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jdk_x64_windows_hotspot_26.0.2_10.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "temurin",
     "version": "26.0.2-ea+10",
     "os": "windows",
     "arch": "x64",

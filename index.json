@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-03T06:35:25Z",
+  "updated": "2026-08-04T06:05:25Z",
   "files": [
     {
       "path": "windows-aarch64/liberica.json",
@@ -79,8 +79,8 @@
       "vendor": "temurin",
       "os": "windows",
       "arch": "x64",
-      "size": 51460,
-      "sha256": "8c063577b2d10239f1305f4572c3176d7c5bbd915d4378c6d597ec0e47376e8d"
+      "size": 51876,
+      "sha256": "7cef42cd3328efd4fc867d6c7f516b233a98d02989bf80a39c7438eb6838e8a8"
     },
     {
       "path": "windows-x64/zulu.json",
