@@ -14,14 +14,14 @@
   {
     "tool": "java",
     "vendor": "temurin",
-    "version": "27-ea+33",
+    "version": "27-ea+34",
     "os": "windows",
     "arch": "x64",
     "release_status": "ea",
     "lts": false,
-    "size": 142735157,
-    "sha256": "53b4691083efd84057849b35f73da938217c791e9056fb0d080000adb11248b7",
-    "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B33-ea-beta/OpenJDK27U-jdk_x64_windows_hotspot_27_33-ea.zip"
+    "size": 142734883,
+    "sha256": "856e51c76304b3acbdedb06e7a28f3a113bb28164989af206901593006d56168",
+    "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B34-ea-beta/OpenJDK27U-jdk_x64_windows_hotspot_27_34-ea.zip"
   },
   {
     "tool": "java",
@@ -74,6 +74,18 @@
   {
     "tool": "java",
     "vendor": "temurin",
+    "version": "25.0.5-ea+1",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ea",
+    "lts": true,
+    "size": 141258439,
+    "sha256": "23b4d4dbcfcd6562ee6f8e7b8c1d534a867f865f12bd9a769862cbd8049fb9fc",
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B1-ea-beta/OpenJDK25U-jdk_x64_windows_hotspot_25.0.5_1-ea.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "temurin",
     "version": "25.0.4+7",
     "os": "windows",
     "arch": "x64",
@@ -82,18 +94,6 @@
     "size": 141164204,
     "sha256": "7caab7db43bf4b94a2e6252c699e70d90084f9aa7c943cd3414761fd540937ae",
     "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B7/OpenJDK25U-jdk_x64_windows_hotspot_25.0.4_7.zip"
-  },
-  {
-    "tool": "java",
-    "vendor": "temurin",
-    "version": "25.0.4-ea+7",
-    "os": "windows",
-    "arch": "x64",
-    "release_status": "ea",
-    "lts": true,
-    "size": 141172095,
-    "sha256": "958f59761c3264714b59090980f8ebae0a214a94e41bd59a0799e7a01dcbf0f2",
-    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B7-ea-beta/OpenJDK25U-jdk_x64_windows_hotspot_25.0.4_7-ea.zip"
   },
   {
     "tool": "java",
