@@ -31,9 +31,9 @@
     "arch": "aarch64",
     "release_status": "ea",
     "lts": false,
-    "size": 123467103,
-    "sha256": "df7a31b71f4c459ba14bacc7d6b01a9473c1d02ef563cf2fed5a3f2afba8f744",
-    "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-07-25-11-35-beta/OpenJDK26U-jdk_aarch64_windows_hotspot_2026-07-25-11-35.zip"
+    "size": 123467082,
+    "sha256": "309479c3d767a449d5017ffdf9c3c9c51fb3b4beb8d6bbc0eaeb971dafd309ac",
+    "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-08-08-11-43-beta/OpenJDK26U-jdk_aarch64_windows_hotspot_2026-08-08-11-43.zip"
   },
   {
     "tool": "java",
