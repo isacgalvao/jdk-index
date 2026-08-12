@@ -2,14 +2,14 @@
   {
     "tool": "java",
     "vendor": "temurin",
-    "version": "28-ea+3",
+    "version": "28-ea+8",
     "os": "windows",
     "arch": "aarch64",
     "release_status": "ea",
     "lts": false,
-    "size": 122296088,
-    "sha256": "4d76dab990477808910791dba3d3ce2fe8628141afd994a58de4e8b5325d1bc1",
-    "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B3-ea-beta/OpenJDK-jdk_aarch64_windows_hotspot_28_3-ea.zip"
+    "size": 122365971,
+    "sha256": "176bb1109aeaf998f0f7418a551b5468ba0670fae23265f05f93505916f3f64b",
+    "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B8-ea-beta/OpenJDK-jdk_aarch64_windows_hotspot_28_8-ea.zip"
   },
   {
     "tool": "java",
