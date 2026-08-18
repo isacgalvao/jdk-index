@@ -2,14 +2,14 @@
   {
     "tool": "java",
     "vendor": "temurin",
-    "version": "28-ea+8",
+    "version": "28-ea+11",
     "os": "windows",
     "arch": "aarch64",
     "release_status": "ea",
     "lts": false,
-    "size": 122365971,
-    "sha256": "176bb1109aeaf998f0f7418a551b5468ba0670fae23265f05f93505916f3f64b",
-    "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B8-ea-beta/OpenJDK-jdk_aarch64_windows_hotspot_28_8-ea.zip"
+    "size": 120359707,
+    "sha256": "b3e174cb7ca84729d9fb9167d53d4b793ce653b2f0b29abb36154c0e239ced0b",
+    "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B11-ea-beta/OpenJDK-jdk_aarch64_windows_hotspot_28_11-ea.zip"
   },
   {
     "tool": "java",
@@ -31,21 +31,21 @@
     "arch": "aarch64",
     "release_status": "ea",
     "lts": false,
-    "size": 123467082,
-    "sha256": "309479c3d767a449d5017ffdf9c3c9c51fb3b4beb8d6bbc0eaeb971dafd309ac",
-    "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-08-08-11-43-beta/OpenJDK26U-jdk_aarch64_windows_hotspot_2026-08-08-11-43.zip"
+    "size": 123467212,
+    "sha256": "70b7d051bd71fce95b81cb099ca628a0cbca053542df8a7af4e180b40b75c596",
+    "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-08-15-12-08-beta/OpenJDK26U-jdk_aarch64_windows_hotspot_2026-08-15-12-08.zip"
   },
   {
     "tool": "java",
     "vendor": "temurin",
-    "version": "25.0.5-ea+1",
+    "version": "25.0.5-ea+2",
     "os": "windows",
     "arch": "aarch64",
     "release_status": "ea",
     "lts": true,
-    "size": 120737635,
-    "sha256": "355cb8bb350b818b5ecbe6c0f6333029318d6e50c3fd1675573183dc534f26e0",
-    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B1-ea-beta/OpenJDK25U-jdk_aarch64_windows_hotspot_25.0.5_1-ea.zip"
+    "size": 120739857,
+    "sha256": "6421ebc3bd01f8db2961a22cd3c968e1151b558cfcc95bfdfe66bf9982d6d141",
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B2-ea-beta/OpenJDK25U-jdk_aarch64_windows_hotspot_25.0.5_2-ea.zip"
   },
   {
     "tool": "java",
