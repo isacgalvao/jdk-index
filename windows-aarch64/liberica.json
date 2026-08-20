@@ -2,6 +2,18 @@
   {
     "tool": "java",
     "vendor": "liberica",
+    "version": "26.0.2.1+1",
+    "os": "windows",
+    "arch": "aarch64",
+    "release_status": "ga",
+    "lts": false,
+    "size": 212050033,
+    "sha256": "45641fec56b59f1c43253fcc9a7139a51cec02c9c569715ca148ff9c52e09322",
+    "url": "https://github.com/bell-sw/Liberica/releases/download/26.0.2.1+1/bellsoft-jdk26.0.2.1+1-windows-aarch64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "liberica",
     "version": "26.0.2+13",
     "os": "windows",
     "arch": "aarch64",
@@ -34,6 +46,18 @@
     "size": 211511652,
     "sha256": "47a1f16da1c5ae68750bd455944d46b80689e531f0deef000479068625ffea13",
     "url": "https://github.com/bell-sw/Liberica/releases/download/26+37/bellsoft-jdk26+37-windows-aarch64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "liberica",
+    "version": "25.0.4.1+1",
+    "os": "windows",
+    "arch": "aarch64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 207371937,
+    "sha256": "e9065a51affa74c09ad6d07f9f1a09dabfb7e4658e018536ce94b76e67ac83c1",
+    "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.4.1+1/bellsoft-jdk25.0.4.1+1-windows-aarch64.zip"
   },
   {
     "tool": "java",
@@ -226,6 +250,18 @@
     "size": 195526841,
     "sha256": "c7ce2779bd9895df05cfb08d1b5b6bf80298b8bbf2b88085777c78d408a2c556",
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-windows-aarch64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "liberica",
+    "version": "21.0.12.1+1",
+    "os": "windows",
+    "arch": "aarch64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 198012557,
+    "sha256": "804c0c9ea598a779dcf3202061b44306b5a2e01999221112e665760b386d8673",
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.12.1+1/bellsoft-jdk21.0.12.1+1-windows-aarch64.zip"
   },
   {
     "tool": "java",
@@ -538,6 +574,18 @@
     "size": 183863593,
     "sha256": "119bfdc582213caf3c69e6e83bc1690160d2057b4df58b3883e0c58cc67fe231",
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-windows-aarch64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "liberica",
+    "version": "17.0.20.1+1",
+    "os": "windows",
+    "arch": "aarch64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 184052851,
+    "sha256": "f19bfe395d13cf1764bfe35cae7ef05bd3972bfd3c4dac339437857a9dd63ac0",
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.20.1+1/bellsoft-jdk17.0.20.1+1-windows-aarch64.zip"
   },
   {
     "tool": "java",
@@ -874,6 +922,18 @@
     "size": 196129375,
     "sha256": "32653ae2ae25ab457ab486bd03b92e75591c03b3cde53b2dae4cef34a30fb5d6",
     "url": "https://github.com/bell-sw/Liberica/releases/download/16.0.1+9/bellsoft-jdk16.0.1+9-windows-aarch64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "liberica",
+    "version": "11.0.32.1+1",
+    "os": "windows",
+    "arch": "aarch64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 193346561,
+    "sha256": "789219ad98361eb5a0d4e8d36ee38926570638db7defbd5ea1c3eaf649ff5f11",
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.32.1+1/bellsoft-jdk11.0.32.1+1-windows-aarch64.zip"
   },
   {
     "tool": "java",
