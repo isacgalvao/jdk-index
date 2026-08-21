@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-20T03:59:09Z",
+  "updated": "2026-08-21T04:02:05Z",
   "files": [
     {
       "path": "windows-aarch64/liberica.json",
@@ -24,7 +24,7 @@
       "os": "windows",
       "arch": "aarch64",
       "size": 9494,
-      "sha256": "852b2224e4adf51163400ffebbb9920e7897a03b5bd95883581fd156283ded20"
+      "sha256": "c48c99733b594375d4438a21600fb34804a95c5c8045e2f00075786b347b6c5d"
     },
     {
       "path": "windows-aarch64/zulu.json",
@@ -63,8 +63,8 @@
       "vendor": "microsoft",
       "os": "windows",
       "arch": "x64",
-      "size": 23868,
-      "sha256": "2c4105ce011544ec8d6f5beb02df2ce88fd2b632a5cf35844c07ec58c8d7fd85"
+      "size": 25286,
+      "sha256": "8a16f51d4e77c59b4e00f46fc69a4ca4661be1c82bf1ae02e5fa681a7686dc18"
     },
     {
       "path": "windows-x64/oracle.json",
@@ -80,7 +80,7 @@
       "os": "windows",
       "arch": "x64",
       "size": 51879,
-      "sha256": "965c8ac08300ef06008cfb83b8ec8baf649c4644035d8197d393a397e4e9dcdb"
+      "sha256": "b1b4fc050ab64adc8824393ae3503ac4259f521dff648341f49ad68d07613786"
     },
     {
       "path": "windows-x64/zulu.json",
