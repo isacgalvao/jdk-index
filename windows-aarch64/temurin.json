@@ -2,14 +2,14 @@
   {
     "tool": "java",
     "vendor": "temurin",
-    "version": "28-ea+12",
+    "version": "28-ea+13",
     "os": "windows",
     "arch": "aarch64",
     "release_status": "ea",
     "lts": false,
-    "size": 120366963,
-    "sha256": "f5b01af10dc74023dee5845b2829eb3c0a56f6595d2bcece73d18f6a29527c9b",
-    "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B12-ea-beta/OpenJDK-jdk_aarch64_windows_hotspot_28_12-ea.zip"
+    "size": 120372609,
+    "sha256": "5e682db2a1d2f2e2173678001fa1cb23f1dbf8b05353107720607458b95874fb",
+    "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B13-ea-beta/OpenJDK-jdk_aarch64_windows_hotspot_28_13-ea.zip"
   },
   {
     "tool": "java",
@@ -26,26 +26,26 @@
   {
     "tool": "java",
     "vendor": "temurin",
-    "version": "26.0.2-ea+10",
+    "version": "26.0.2.1-ea+1",
     "os": "windows",
     "arch": "aarch64",
     "release_status": "ea",
     "lts": false,
-    "size": 123467212,
-    "sha256": "70b7d051bd71fce95b81cb099ca628a0cbca053542df8a7af4e180b40b75c596",
-    "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-08-15-12-08-beta/OpenJDK26U-jdk_aarch64_windows_hotspot_2026-08-15-12-08.zip"
+    "size": 123467644,
+    "sha256": "91f2514ece6ed1797f3a068c501f0c784b79a92ac7fed6e4984ab5abd1ad87fd",
+    "url": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk26u-2026-08-29-12-06-beta/OpenJDK26U-jdk_aarch64_windows_hotspot_2026-08-29-12-06.zip"
   },
   {
     "tool": "java",
     "vendor": "temurin",
-    "version": "25.0.5-ea+3",
+    "version": "25.0.5-ea+4",
     "os": "windows",
     "arch": "aarch64",
     "release_status": "ea",
     "lts": true,
-    "size": 120743223,
-    "sha256": "954f3c15a84873c70314afd780a5d2426df690d2f4180d1c4ef9601497f0d5eb",
-    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B3-ea-beta/OpenJDK25U-jdk_aarch64_windows_hotspot_25.0.5_3-ea.zip"
+    "size": 120744827,
+    "sha256": "97d8482a653b925cf0f47af7003aafe850f672ff907530c0520088d71eb34ef9",
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B4-ea-beta/OpenJDK25U-jdk_aarch64_windows_hotspot_25.0.5_4-ea.zip"
   },
   {
     "tool": "java",

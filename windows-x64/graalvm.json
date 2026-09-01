@@ -19,9 +19,9 @@
     "arch": "x64",
     "release_status": "ea",
     "lts": true,
-    "size": 367181089,
-    "sha256": "5c9f5220be3d64d760e35cf615a71bf165148eb9f2fcdf8b8f674dd76861f1f5",
-    "url": "https://github.com/graalvm/oracle-graalvm-ea-builds/releases/download/jdk-25i3-25.0.4.1-ea.03/graalvm-jdk-25i3-25.0.4.1-ea.03_windows-x64_bin.zip"
+    "size": 367295543,
+    "sha256": "f11ef7705a69720e5b78b1e8ce1ef099f1581b94542ff0b89e328abf12545aa1",
+    "url": "https://github.com/graalvm/oracle-graalvm-ea-builds/releases/download/jdk-25i3-25.0.4.1.1-ea.04/graalvm-jdk-25i3-25.0.4.1.1-ea.04_windows-x64_bin.zip"
   },
   {
     "tool": "java",
