@@ -2,6 +2,18 @@
   {
     "tool": "java",
     "vendor": "liberica",
+    "version": "27+36",
+    "os": "windows",
+    "arch": "aarch64",
+    "release_status": "ga",
+    "lts": false,
+    "size": 209522158,
+    "sha256": "260c7b4ff0b4dad79241674262a5445f87a23849d191f81aa118f1dbf78666fc",
+    "url": "https://github.com/bell-sw/Liberica/releases/download/27+36/bellsoft-jdk27+36-windows-aarch64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "liberica",
     "version": "26.0.2.1+1",
     "os": "windows",
     "arch": "aarch64",

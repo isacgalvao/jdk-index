@@ -2,6 +2,18 @@
   {
     "tool": "java",
     "vendor": "corretto",
+    "version": "27",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": false,
+    "size": 224402222,
+    "sha256": "0e907a593d6809e7f7eb512563428cce39aadc803c3feeed4d2722cedf0f4985",
+    "url": "https://corretto.aws/downloads/resources/27.0.0.33.1/amazon-corretto-27.0.0.33.1-windows-x64-jdk.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "corretto",
     "version": "26.0.2",
     "os": "windows",
     "arch": "x64",

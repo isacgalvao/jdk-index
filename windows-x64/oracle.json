@@ -2,6 +2,18 @@
   {
     "tool": "java",
     "vendor": "oracle",
+    "version": "27",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": false,
+    "size": 220017216,
+    "sha256": "c75756490b95f44db07a21d4491b712399107d50fc041c2ecf0a6848662bfbd7",
+    "url": "https://download.oracle.com/java/27/archive/jdk-27_windows-x64_bin.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "oracle",
     "version": "26.0.2",
     "os": "windows",
     "arch": "x64",

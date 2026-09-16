@@ -2,6 +2,18 @@
   {
     "tool": "java",
     "vendor": "zulu",
+    "version": "27+35",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": false,
+    "size": 231762081,
+    "sha256": "99395b64049c2754005746c4f4b66fdb80c98c3cabaa14d4b25a7f8815c997b8",
+    "url": "https://cdn.azul.com/zulu/bin/zulu27.28.101-ca-jdk27.0.0-win_x64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "zulu",
     "version": "27-ea+32",
     "os": "windows",
     "arch": "x64",
