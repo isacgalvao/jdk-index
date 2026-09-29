@@ -2,26 +2,38 @@
   {
     "tool": "java",
     "vendor": "temurin",
-    "version": "28-ea+16",
+    "version": "28-ea+17",
     "os": "windows",
     "arch": "x64",
     "release_status": "ea",
     "lts": false,
-    "size": 160816556,
-    "sha256": "d479718e15e5710ca9cdd0095f65645bd587ba5183a1b51c90752ecf8841e62f",
-    "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B16-ea-beta/OpenJDK-jdk_x64_windows_hotspot_28_16-ea.zip"
+    "size": 160847511,
+    "sha256": "19a9b4903840008c73c6d19d87358acd0b40656a1aa4b4df221eb1d862e0770a",
+    "url": "https://github.com/adoptium/temurin28-binaries/releases/download/jdk-28%2B17-ea-beta/OpenJDK-jdk_x64_windows_hotspot_28_17-ea.zip"
   },
   {
     "tool": "java",
     "vendor": "temurin",
-    "version": "27-ea+35",
+    "version": "27.0.2-ea",
     "os": "windows",
     "arch": "x64",
     "release_status": "ea",
     "lts": false,
-    "size": 142735987,
-    "sha256": "e11fd24193ff1b856d6a6104965db690cd5777e80ce21b0998fa16758e6e9e0f",
-    "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35-ea-beta/OpenJDK27U-jdk_x64_windows_hotspot_27_35-ea.zip"
+    "size": 142741370,
+    "sha256": "177933a62ae3ff31307a4f04b188e96d273458873468459d594bb9de14b7b5ce",
+    "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk27u-2026-09-26-15-03-beta/OpenJDK27U-jdk_x64_windows_hotspot_2026-09-26-15-03.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "temurin",
+    "version": "27+35",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": false,
+    "size": 142734675,
+    "sha256": "2031c9c5c624737ed29a0624caaf5bcc25e74235834c28b4bfa88f7ba7a40e4a",
+    "url": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jdk_x64_windows_hotspot_27_35.zip"
   },
   {
     "tool": "java",
