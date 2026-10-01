@@ -266,13 +266,13 @@
   {
     "tool": "java",
     "vendor": "temurin",
-    "version": "17.0.21-ea+7",
+    "version": "17.0.21-ea+8",
     "os": "windows",
     "arch": "aarch64",
     "release_status": "ea",
     "lts": true,
-    "size": 179404315,
-    "sha256": "064bf81bb3630aa00c47472372c2065cb48b37041b06b991b9dcd48206cbb21c",
-    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21%2B7-ea-beta/OpenJDK17U-jdk_aarch64_windows_hotspot_17.0.21_7-ea.zip"
+    "size": 179420704,
+    "sha256": "b955f3ae5d4713356a6f064b68c34a2a73694f546d9ad0e4b3e409c53de6ac4e",
+    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21%2B8-ea-beta/OpenJDK17U-jdk_aarch64_windows_hotspot_17.0.21_8-ea.zip"
   }
 ]
