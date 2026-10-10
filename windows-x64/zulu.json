@@ -43,7 +43,7 @@
     "arch": "x64",
     "release_status": "ga",
     "lts": false,
-    "size": 234971610,
+    "size": 0,
     "sha256": "d76294c46dcd0a1d532f7a5b7023fc404d14f3a7e7a7f602329201f20908cd71",
     "url": "https://cdn.azul.com/zulu/bin/zulu26.32.203-ca-jdk26.0.2.1-win_x64.zip"
   },

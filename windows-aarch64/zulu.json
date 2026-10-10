@@ -7,7 +7,7 @@
     "arch": "aarch64",
     "release_status": "ga",
     "lts": true,
-    "size": 206316170,
+    "size": 0,
     "sha256": "654b92047fcc4e5106f7b73a2f93d9c5fcb399f4658ce4d693228c7acb52e4ad",
     "url": "https://cdn.azul.com/zulu/bin/zulu25.36.205-ca-jdk25.0.4.1-win_aarch64.zip"
   },

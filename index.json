@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-03T09:10:15Z",
+  "updated": "2026-10-10T09:51:22Z",
   "files": [
     {
       "path": "windows-aarch64/liberica.json",
@@ -24,23 +24,23 @@
       "os": "windows",
       "arch": "aarch64",
       "size": 9942,
-      "sha256": "04cc822a56dccc9e39dac5e5f35bb1ad16034e1d4e94ad7a635593671153aa10"
+      "sha256": "5265f3181e42fbd5f1dd366241f7af30f88345f88d8aef9d80601f30dcf2789f"
     },
     {
       "path": "windows-aarch64/zulu.json",
       "vendor": "zulu",
       "os": "windows",
       "arch": "aarch64",
-      "size": 18595,
-      "sha256": "40536c860e78f53ccb51c9065bf386fe380e980acc3235e6ae8135a03175c31a"
+      "size": 18587,
+      "sha256": "b42d9a990a2bc910559e1a7853bf0bae58914573bfe9fc671ce0432bca2e4456"
     },
     {
       "path": "windows-x64/corretto.json",
       "vendor": "corretto",
       "os": "windows",
       "arch": "x64",
-      "size": 51512,
-      "sha256": "a0d920c3148efc0a9fb57e178923b1e1bf259d63fba71ae88bccea30e44736db"
+      "size": 52287,
+      "sha256": "6c460c1a9df8dbe389a9546ee86f9e1014a8cc4644a492b9ab5c2193e61d9c37"
     },
     {
       "path": "windows-x64/graalvm.json",
@@ -48,7 +48,7 @@
       "os": "windows",
       "arch": "x64",
       "size": 14970,
-      "sha256": "d9083a6cea4cf58c8392ac6b26744b9cf3d03ec71bc6bfa0d2532f5998522a29"
+      "sha256": "33231b9e85c96b3efd92077f01bd594df0c8a6228633e9ea9e425d4edada0e11"
     },
     {
       "path": "windows-x64/liberica.json",
@@ -80,15 +80,15 @@
       "os": "windows",
       "arch": "x64",
       "size": 54811,
-      "sha256": "68cd755d3e2e782b18a12ab80c1c3355bcf35d07de494f28de333d8501212510"
+      "sha256": "a4bb32242c222a9a363f1ba8f5a427ae1d88f1b38e07aac53de0627d0766ae74"
     },
     {
       "path": "windows-x64/zulu.json",
       "vendor": "zulu",
       "os": "windows",
       "arch": "x64",
-      "size": 132007,
-      "sha256": "89b87de58dff5e264ca182ab565f543f8d172c58b01ea812ba54aa5a28f226c8"
+      "size": 131999,
+      "sha256": "139d1a69e290b16a40b0bcd54a8d472a119dfe83d5213715db7e5dba331369b5"
     }
   ]
 }
