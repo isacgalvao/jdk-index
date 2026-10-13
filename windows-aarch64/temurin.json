@@ -115,9 +115,9 @@
     "arch": "aarch64",
     "release_status": "ea",
     "lts": true,
-    "size": 192978867,
-    "sha256": "f95aca179d9951adf019e30f198ad735b95aeef8c8c09205ed1ecf9b255e8641",
-    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13%2B8-ea-beta/OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.13_8-ea.zip"
+    "size": 192978630,
+    "sha256": "941e97ff6bf2b829d5b6139d27c52c526eadce9b312c912f9c71e73c2f60fcaa",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk21u-2026-10-12-08-52-beta/OpenJDK21U-jdk_aarch64_windows_hotspot_2026-10-12-08-52.zip"
   },
   {
     "tool": "java",
