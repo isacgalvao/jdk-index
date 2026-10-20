@@ -7,7 +7,7 @@
     "arch": "x64",
     "release_status": "ea",
     "lts": false,
-    "size": 247941406,
+    "size": 0,
     "sha256": "ec9bc2ea52b68e37704bf063197a35d3507c8f5feeb7afeb49f9278bfac1dab0",
     "url": "https://cdn.azul.com/zulu/bin/zulu28.0.45-beta-jdk28.0.0-beta.18-win_x64.zip"
   },
