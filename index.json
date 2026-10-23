@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-22T08:37:34Z",
+  "updated": "2026-10-23T08:33:39Z",
   "files": [
     {
       "path": "windows-aarch64/liberica.json",
@@ -71,8 +71,8 @@
       "vendor": "oracle",
       "os": "windows",
       "arch": "x64",
-      "size": 21699,
-      "sha256": "496e7fee0f227a1b95f1bf1e0a124b52c7471ed3baaa1181e1c99419b59e3fb8"
+      "size": 22055,
+      "sha256": "e600537dcb121fb83c2b591e12e62c686905b0ca410d4cd17fe6628c68d4caf6"
     },
     {
       "path": "windows-x64/temurin.json",

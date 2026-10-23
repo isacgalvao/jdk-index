@@ -74,6 +74,18 @@
   {
     "tool": "java",
     "vendor": "oracle",
+    "version": "25.0.5",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 215947971,
+    "sha256": "558dff0116b6df12f74ecc2405e2e666ed89faafe6065b8948cedccfe96523d3",
+    "url": "https://download.oracle.com/java/25/archive/jdk-25.0.5_windows-x64_bin.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "oracle",
     "version": "25.0.4.1",
     "os": "windows",
     "arch": "x64",
