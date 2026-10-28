@@ -2,6 +2,18 @@
   {
     "tool": "java",
     "vendor": "microsoft",
+    "version": "25.0.5",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 220869659,
+    "sha256": "5da7525c8268a10a66bd76a39f4e9af24d4ebc974d42800a609852c498a68460",
+    "url": "https://aka.ms/download-jdk/microsoft-jdk-25.0.5.0.2-windows-x64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "microsoft",
     "version": "25.0.4.1",
     "os": "windows",
     "arch": "x64",
@@ -70,6 +82,18 @@
     "size": 220459225,
     "sha256": "f9a3b28ed2788b16892e11e159669bd70f100fea71bd36a15ac59bbcde344b80",
     "url": "https://aka.ms/download-jdk/microsoft-jdk-25.0.0-windows-x64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "microsoft",
+    "version": "21.0.13",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 201450315,
+    "sha256": "c5706a9cf482ef1a0622a86eea5b13d557b07f04554572af061e2d02b58c0f99",
+    "url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.13.0.2-windows-x64.zip"
   },
   {
     "tool": "java",
@@ -238,6 +262,18 @@
     "size": 200292475,
     "sha256": "0b511c92fc81e061ffbd01c2e89a268cfde586be408021c2cc107eb959b09e4b",
     "url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.0-windows-x64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "microsoft",
+    "version": "17.0.21",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 187236595,
+    "sha256": "49154292866386b2f4f09a3ecf3be07ab80a419149c84ec1d4419b9eec9e4b64",
+    "url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.21.0.2-windows-x64.zip"
   },
   {
     "tool": "java",

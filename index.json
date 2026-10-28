@@ -1,22 +1,22 @@
 {
   "version": 1,
-  "updated": "2026-10-24T08:08:53Z",
+  "updated": "2026-10-28T09:40:36Z",
   "files": [
     {
       "path": "windows-aarch64/liberica.json",
       "vendor": "liberica",
       "os": "windows",
       "arch": "aarch64",
-      "size": 44369,
-      "sha256": "6771431dd2e62fb64fd98c0046688318b2ea8630e38743355f2d4be7f3c1bfb0"
+      "size": 46788,
+      "sha256": "118c1d307e783bb004e71107c495a307a539b167d2cfc23402ecd4643aeedff4"
     },
     {
       "path": "windows-aarch64/microsoft.json",
       "vendor": "microsoft",
       "os": "windows",
       "arch": "aarch64",
-      "size": 25499,
-      "sha256": "757d7c02e6fa20f501556375b985a645108e75e2d41c071dad2c7befd4789faa"
+      "size": 26586,
+      "sha256": "01518785c32917e3837b61b38d32544edfd8ad08e70fdaa2399ae34863883673"
     },
     {
       "path": "windows-aarch64/temurin.json",
@@ -31,8 +31,8 @@
       "vendor": "zulu",
       "os": "windows",
       "arch": "aarch64",
-      "size": 18587,
-      "sha256": "b42d9a990a2bc910559e1a7853bf0bae58914573bfe9fc671ce0432bca2e4456"
+      "size": 20008,
+      "sha256": "04156fed9b2fe096382fe451fb530f26de7d78c00d8c5bb733e25ff17ad7ef94"
     },
     {
       "path": "windows-x64/corretto.json",
@@ -55,16 +55,16 @@
       "vendor": "liberica",
       "os": "windows",
       "arch": "x64",
-      "size": 64192,
-      "sha256": "7083c0b1c4831a3c10b1b09ab3f482ec903e8fbb7858412c85410ad02802c92a"
+      "size": 67347,
+      "sha256": "660e9094d23864bb1444acddd21bccdaa64bb6e93ca79ae604dffcf225767be7"
     },
     {
       "path": "windows-x64/microsoft.json",
       "vendor": "microsoft",
       "os": "windows",
       "arch": "x64",
-      "size": 25286,
-      "sha256": "8a16f51d4e77c59b4e00f46fc69a4ca4661be1c82bf1ae02e5fa681a7686dc18"
+      "size": 26349,
+      "sha256": "5fbc84f5ca3d1ce05a60b5cf3bfc5083b13980024dfce8ebc3ff6f321e85b134"
     },
     {
       "path": "windows-x64/oracle.json",
@@ -87,8 +87,8 @@
       "vendor": "zulu",
       "os": "windows",
       "arch": "x64",
-      "size": 132003,
-      "sha256": "9895d506a2702c434422b60a84e4ca9d1b7abc531a747654f97ea77002d01822"
+      "size": 134113,
+      "sha256": "778993ee3b0f4c95a43fdaa1167f9c79ccb8b872317c6b47bba1def0117d32e3"
     }
   ]
 }

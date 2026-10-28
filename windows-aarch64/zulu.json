@@ -2,6 +2,30 @@
   {
     "tool": "java",
     "vendor": "zulu",
+    "version": "27.0.1+9",
+    "os": "windows",
+    "arch": "aarch64",
+    "release_status": "ga",
+    "lts": false,
+    "size": 0,
+    "sha256": "ba7a97ac574fbf176a84ce5f430233a297def2e5205b8bdb6290da454c4d8b33",
+    "url": "https://cdn.azul.com/zulu/bin/zulu27.30.107-ca-jdk27.0.1-win_aarch64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "zulu",
+    "version": "25.0.5+8",
+    "os": "windows",
+    "arch": "aarch64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 0,
+    "sha256": "06dbd2134870ea3ca1722cb336558a15403b2ac5f91b6fd4675f824de511bf51",
+    "url": "https://cdn.azul.com/zulu/bin/zulu25.38.107-ca-jdk25.0.5-win_aarch64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "zulu",
     "version": "25.0.4.1+1",
     "os": "windows",
     "arch": "aarch64",
@@ -94,6 +118,18 @@
     "size": 205995515,
     "sha256": "f5f6d8a913695649e8e2607fe0dc79c81953b2583013ac1fb977c63cb4935bfb",
     "url": "https://cdn.azul.com/zulu/bin/zulu25.28.85-ca-jdk25.0.0-win_aarch64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "zulu",
+    "version": "21.0.13+9",
+    "os": "windows",
+    "arch": "aarch64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 198069507,
+    "sha256": "bbca4b1de2caba87ae219cd955c469f93f69da315a4b9c4f4d629dd05eb10950",
+    "url": "https://cdn.azul.com/zulu/bin/zulu21.54.107-ca-jdk21.0.13-win_aarch64.zip"
   },
   {
     "tool": "java",
@@ -298,6 +334,18 @@
     "size": 184153610,
     "sha256": "9b52b259516e4140ee56b91f77750667bffbc543e78ad8c39082449d4c377b54",
     "url": "https://cdn.azul.com/zulu/bin/zulu18.28.13-ca-jdk18.0.0-win_aarch64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "zulu",
+    "version": "17.0.21+9",
+    "os": "windows",
+    "arch": "aarch64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 184179844,
+    "sha256": "638c96ff424c380c235f38a9523971040619de08979c7fc27ce6c60c9120430a",
+    "url": "https://cdn.azul.com/zulu/bin/zulu17.70.111-ca-jdk17.0.21-win_aarch64.zip"
   },
   {
     "tool": "java",
