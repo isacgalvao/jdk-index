@@ -2,6 +2,18 @@
   {
     "tool": "java",
     "vendor": "corretto",
+    "version": "27.0.1+9",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": false,
+    "size": 224451077,
+    "sha256": "e39d31e11fe31932e55d4bba28486fb10c208b2f297766d4fc78364d9e58b47a",
+    "url": "https://corretto.aws/downloads/resources/27.0.1.0.10/amazon-corretto-27.0.1.0.10-windows-x64-jdk.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "corretto",
     "version": "27",
     "os": "windows",
     "arch": "x64",
@@ -46,6 +58,18 @@
     "size": 226970309,
     "sha256": "1294ae1d36bd1c2c5767331e3697db14351e49b717490973cbdd5450687ad930",
     "url": "https://corretto.aws/downloads/resources/26.0.0.34.1/amazon-corretto-26.0.0.34.1-windows-x64-jdk.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "corretto",
+    "version": "25.0.5+8",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 222118953,
+    "sha256": "4da11ba50a52e4fe7e99f30c3103e5e41314d5dcabe6fe768ff9f68e55466139",
+    "url": "https://corretto.aws/downloads/resources/25.0.5.0.10/amazon-corretto-25.0.5.0.10-windows-x64-jdk.zip"
   },
   {
     "tool": "java",
@@ -262,6 +286,18 @@
     "size": 200510067,
     "sha256": "c510db7c8de7b68a8ff73d01fd2293edfb82baed3ab1e1150509c46191de903c",
     "url": "https://corretto.aws/downloads/latest/amazon-corretto-22-x64-windows-jdk.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "corretto",
+    "version": "21.0.13+9",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 202668246,
+    "sha256": "abd264a79e07c64e19aaa705e5b8ea8db01d5213877b8ac0b855a94541a4b0fd",
+    "url": "https://corretto.aws/downloads/resources/21.0.13.0.10/amazon-corretto-21.0.13.0.10-windows-x64-jdk.zip"
   },
   {
     "tool": "java",
@@ -586,6 +622,18 @@
     "size": 187031166,
     "sha256": "dab8b4fb8beddf6b714f4cfb1dc5aa81a10ba297e5fcab2777702d4ce01bd36d",
     "url": "https://corretto.aws/downloads/latest/amazon-corretto-18-x64-windows-jdk.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "corretto",
+    "version": "17.0.21+9",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 188385280,
+    "sha256": "8681393133cde8d2fd0d52ccae48e8096b6eed11fc119eaf9cf1c84721311322",
+    "url": "https://corretto.aws/downloads/resources/17.0.21.0.10/amazon-corretto-17.0.21.0.10-windows-x64-jdk.zip"
   },
   {
     "tool": "java",
@@ -938,6 +986,18 @@
   {
     "tool": "java",
     "vendor": "corretto",
+    "version": "11.0.33+9",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 189165301,
+    "sha256": "1a65d64b7837bb7439f4e3973531e50c9c52da737385066d771b52d2db461d80",
+    "url": "https://corretto.aws/downloads/resources/11.0.33.0.10/amazon-corretto-11.0.33.0.10-windows-x64-jdk.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "corretto",
     "version": "11.0.32",
     "os": "windows",
     "arch": "x64",
@@ -1270,6 +1330,18 @@
     "size": 188868023,
     "sha256": "462f2a455d8f8da1a3a839a0f3de10c7a5fe6f7d230cf995e144a769382f4afe",
     "url": "https://corretto.aws/downloads/latest/amazon-corretto-11-x64-windows-jdk.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "corretto",
+    "version": "8.0.512",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 105927564,
+    "sha256": "2c13b99a717f8d91bedd196afe0fb1cb36c1b6b8061de2a109791cf0c48d13e9",
+    "url": "https://corretto.aws/downloads/resources/8.512.08.1/amazon-corretto-8.512.08.1-windows-x64-jdk.zip"
   },
   {
     "tool": "java",

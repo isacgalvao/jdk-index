@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-28T09:40:36Z",
+  "updated": "2026-10-29T09:58:51Z",
   "files": [
     {
       "path": "windows-aarch64/liberica.json",
@@ -39,8 +39,8 @@
       "vendor": "corretto",
       "os": "windows",
       "arch": "x64",
-      "size": 52287,
-      "sha256": "6c460c1a9df8dbe389a9546ee86f9e1014a8cc4644a492b9ab5c2193e61d9c37"
+      "size": 54610,
+      "sha256": "8f09805827014530bb1b4c501a1118cdfdc65f2f054dc52ca59b5e2f433d0f99"
     },
     {
       "path": "windows-x64/graalvm.json",
