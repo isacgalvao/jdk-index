@@ -343,7 +343,7 @@
     "arch": "aarch64",
     "release_status": "ga",
     "lts": true,
-    "size": 198012557,
+    "size": 0,
     "sha256": "804c0c9ea598a779dcf3202061b44306b5a2e01999221112e665760b386d8673",
     "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.12.1+1/bellsoft-jdk21.0.12.1+1-windows-aarch64.zip"
   },

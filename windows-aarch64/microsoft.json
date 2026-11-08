@@ -590,6 +590,18 @@
   {
     "tool": "java",
     "vendor": "microsoft",
+    "version": "11.0.33",
+    "os": "windows",
+    "arch": "aarch64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 186939316,
+    "sha256": "eaec0a33da7bb5d1538017198814d553451662a7341620fe184a764617644d52",
+    "url": "https://aka.ms/download-jdk/microsoft-jdk-11.0.33-windows-aarch64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "microsoft",
     "version": "11.0.32.1",
     "os": "windows",
     "arch": "aarch64",

@@ -1,38 +1,38 @@
 {
   "version": 1,
-  "updated": "2026-10-29T09:58:51Z",
+  "updated": "2026-11-08T10:23:46Z",
   "files": [
     {
       "path": "windows-aarch64/liberica.json",
       "vendor": "liberica",
       "os": "windows",
       "arch": "aarch64",
-      "size": 46788,
-      "sha256": "118c1d307e783bb004e71107c495a307a539b167d2cfc23402ecd4643aeedff4"
+      "size": 46780,
+      "sha256": "3ab0f18f5b72a2992bb91911f14814eabc443846e747458598213cd73eec0012"
     },
     {
       "path": "windows-aarch64/microsoft.json",
       "vendor": "microsoft",
       "os": "windows",
       "arch": "aarch64",
-      "size": 26586,
-      "sha256": "01518785c32917e3837b61b38d32544edfd8ad08e70fdaa2399ae34863883673"
+      "size": 26945,
+      "sha256": "d3ba1aa1e3436d043fb6b596db694737553a990cb5315faa5ffa35285fd88d0d"
     },
     {
       "path": "windows-aarch64/temurin.json",
       "vendor": "temurin",
       "os": "windows",
       "arch": "aarch64",
-      "size": 9942,
-      "sha256": "8860c827d396f57f217d69a03a5966a906b614d51f138fc9b9c8f8850242b431"
+      "size": 9948,
+      "sha256": "d0113758e151dbe16fd9c0d25a941bb6f94e913a5b3c1751d8f61e5138fd57b5"
     },
     {
       "path": "windows-aarch64/zulu.json",
       "vendor": "zulu",
       "os": "windows",
       "arch": "aarch64",
-      "size": 20008,
-      "sha256": "04156fed9b2fe096382fe451fb530f26de7d78c00d8c5bb733e25ff17ad7ef94"
+      "size": 21461,
+      "sha256": "8e4cb60a1df65073a1f4dfe5cb12ec870dd6de199bd76d6360c7e984d5986f3d"
     },
     {
       "path": "windows-x64/corretto.json",
@@ -55,16 +55,16 @@
       "vendor": "liberica",
       "os": "windows",
       "arch": "x64",
-      "size": 67347,
-      "sha256": "660e9094d23864bb1444acddd21bccdaa64bb6e93ca79ae604dffcf225767be7"
+      "size": 67339,
+      "sha256": "f31f9b2768a2ab0504687f0479fdf350e284ee0f1403288e52b86971c4494b88"
     },
     {
       "path": "windows-x64/microsoft.json",
       "vendor": "microsoft",
       "os": "windows",
       "arch": "x64",
-      "size": 26349,
-      "sha256": "5fbc84f5ca3d1ce05a60b5cf3bfc5083b13980024dfce8ebc3ff6f321e85b134"
+      "size": 26700,
+      "sha256": "14377d849e0eccb6cfa8f82f34c4223ceab4bb8d7ebe79612eb85c0890c73b51"
     },
     {
       "path": "windows-x64/oracle.json",
@@ -79,16 +79,16 @@
       "vendor": "temurin",
       "os": "windows",
       "arch": "x64",
-      "size": 54811,
-      "sha256": "64b6698921dc6d93ff05ff968d8f4314b40bc70be5dbc4e382ff668ba622d4b1"
+      "size": 56465,
+      "sha256": "231ad63bbc968b7aa06a85fc761dfb6b7c9b5341515c019269200a2cfc83ffbf"
     },
     {
       "path": "windows-x64/zulu.json",
       "vendor": "zulu",
       "os": "windows",
       "arch": "x64",
-      "size": 134113,
-      "sha256": "778993ee3b0f4c95a43fdaa1167f9c79ccb8b872317c6b47bba1def0117d32e3"
+      "size": 136236,
+      "sha256": "5fbe06717d0a99bcbd1c55a659fd6b85b97c5ec3c790e877fde9533e056e89d8"
     }
   ]
 }
