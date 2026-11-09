@@ -110,14 +110,14 @@
   {
     "tool": "java",
     "vendor": "temurin",
-    "version": "21.0.13.1-ea+1",
+    "version": "21.0.14-ea+1",
     "os": "windows",
     "arch": "aarch64",
     "release_status": "ea",
     "lts": true,
-    "size": 193032650,
-    "sha256": "18034818f410b86989439350d8bad30bbb7a6484e0ceb017cf4fc7c34719ae01",
-    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13.1%2B1-ea-beta/OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.13.1_1-ea.zip"
+    "size": 193048438,
+    "sha256": "b23173d2532f7b393abbf849638c31a550b925d4b2c05285cecdf89b8160bef8",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.14%2B1-ea-beta/OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.14_1-ea.zip"
   },
   {
     "tool": "java",
@@ -266,13 +266,13 @@
   {
     "tool": "java",
     "vendor": "temurin",
-    "version": "17.0.21-ea+9",
+    "version": "17.0.22-ea+1",
     "os": "windows",
     "arch": "aarch64",
     "release_status": "ea",
     "lts": true,
-    "size": 179464178,
-    "sha256": "3333df87f3a0d24fa0644228adaecb81615b3bb16622e68bec16de798626130e",
-    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21%2B9-ea-beta/OpenJDK17U-jdk_aarch64_windows_hotspot_17.0.21_9-ea.zip"
+    "size": 179474889,
+    "sha256": "31a59b9d153fd8e475a603e5c211ebbdccd945620637fd168415a5277439841c",
+    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.22%2B1-ea-beta/OpenJDK17U-jdk_aarch64_windows_hotspot_17.0.22_1-ea.zip"
   }
 ]
