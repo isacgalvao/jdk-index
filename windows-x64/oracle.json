@@ -2,6 +2,18 @@
   {
     "tool": "java",
     "vendor": "oracle",
+    "version": "27.0.1.1",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": false,
+    "size": 220074616,
+    "sha256": "9a2972e8ade166718fdc47e903b10b88e046b9839efb0a5cacb994a4be3266f7",
+    "url": "https://download.oracle.com/java/27/archive/jdk-27.0.1.1_windows-x64_bin.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "oracle",
     "version": "27.0.1",
     "os": "windows",
     "arch": "x64",
@@ -70,6 +82,18 @@
     "size": 220787017,
     "sha256": "21fb9521d0313fdc0e7c76e646eaa884d224abaf048c5b5c4f3a256c4e1fa30a",
     "url": "https://download.oracle.com/java/26/archive/jdk-26_windows-x64_bin.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "oracle",
+    "version": "25.0.5.1",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 215974759,
+    "sha256": "163cf56d2920ac14fe1d1f503f14ea1b60a1866dd4113bb785d62a9a5585e733",
+    "url": "https://download.oracle.com/java/25/archive/jdk-25.0.5.1_windows-x64_bin.zip"
   },
   {
     "tool": "java",

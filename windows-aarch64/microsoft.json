@@ -2,6 +2,18 @@
   {
     "tool": "java",
     "vendor": "microsoft",
+    "version": "25.0.5.1",
+    "os": "windows",
+    "arch": "aarch64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 215883747,
+    "sha256": "a0fc659c6770e2c1a59329ae7dc5d080d4cc83230a62d78f7ffc77502ac3bba8",
+    "url": "https://aka.ms/download-jdk/microsoft-jdk-25.0.5.1-windows-aarch64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "microsoft",
     "version": "25.0.5",
     "os": "windows",
     "arch": "aarch64",
@@ -82,6 +94,18 @@
     "size": 215454019,
     "sha256": "5006e99f9e0e528ec149284a6d443b25f4f006d5d67ac052b4ced4f66fb535a1",
     "url": "https://aka.ms/download-jdk/microsoft-jdk-25.0.0-windows-aarch64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "microsoft",
+    "version": "21.0.13.1",
+    "os": "windows",
+    "arch": "aarch64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 196808102,
+    "sha256": "f2b0a3b3f684131c209b3d0f886d985bc6f5a1861cb4c3a4ea1450dd00218e7d",
+    "url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.13.1-windows-aarch64.zip"
   },
   {
     "tool": "java",
@@ -262,6 +286,18 @@
     "size": 187768116,
     "sha256": "975603e684f2ec5a525b3b5336d6aa0b09b5b7d2d0d9e271bd6a9892ad550181",
     "url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.0-windows-aarch64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "microsoft",
+    "version": "17.0.21.1",
+    "os": "windows",
+    "arch": "aarch64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 182918237,
+    "sha256": "a352b538a9967a2361ed15ee3b560b1668e66ab89bdef4551ac2905c01cd9e57",
+    "url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.21.1-windows-aarch64.zip"
   },
   {
     "tool": "java",
@@ -586,6 +622,18 @@
     "size": 187090418,
     "sha256": "803aa1fb62007cb805054fcc72ff90742197f38ef30ee7a2fcf682a08814d376",
     "url": "https://aka.ms/download-jdk/microsoft-jdk-16.0.1.9.1-windows-aarch64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "microsoft",
+    "version": "11.0.33.1",
+    "os": "windows",
+    "arch": "aarch64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 186954644,
+    "sha256": "8465210c214c4e96e1b88652e2f2073816ff0785adaad6c28c23e9ddd292bab8",
+    "url": "https://aka.ms/download-jdk/microsoft-jdk-11.0.33.1-windows-aarch64.zip"
   },
   {
     "tool": "java",

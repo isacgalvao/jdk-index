@@ -2,14 +2,26 @@
   {
     "tool": "java",
     "vendor": "zulu",
-    "version": "28-ea+23",
+    "version": "28-ea+24",
     "os": "windows",
     "arch": "x64",
     "release_status": "ea",
     "lts": false,
-    "size": 248077404,
-    "sha256": "e9055edee5ab8323280e7c004b08f844522a0d1caa2d8818e392f87d3d59e83d",
-    "url": "https://cdn.azul.com/zulu/bin/zulu28.0.55-beta-jdk28.0.0-beta.23-win_x64.zip"
+    "size": 249130181,
+    "sha256": "4dfd590254952be2e944c5f7e3a30ec65cbdfaf3e379d8d86abffffec2702793",
+    "url": "https://cdn.azul.com/zulu/bin/zulu28.0.57-beta-jdk28.0.0-beta.24-win_x64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "zulu",
+    "version": "27.0.1.1+4",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": false,
+    "size": 231997128,
+    "sha256": "f5424ea36f832aa28a0441a57ffb1dfe2cd3d903802c0a36d22576b1acc430ec",
+    "url": "https://cdn.azul.com/zulu/bin/zulu27.30.201-ca-jdk27.0.1.1-win_x64.zip"
   },
   {
     "tool": "java",
@@ -118,6 +130,18 @@
     "size": 0,
     "sha256": "7c661cc750b739cdecef70c92daa183e084c05c48624ef25b927888aa0860bbe",
     "url": "https://cdn.azul.com/zulu/bin/zulu26.0.45-beta-jdk26.0.0-beta.28-win_x64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "zulu",
+    "version": "25.0.5.1+2",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 230212748,
+    "sha256": "01c1c4cfe8c0e04a22a46d3cd1ddd18b9db9fb2a1b0a88ffd90e0aa57420845e",
+    "url": "https://cdn.azul.com/zulu/bin/zulu25.38.201-ca-jdk25.0.5.1-win_x64.zip"
   },
   {
     "tool": "java",
@@ -394,6 +418,18 @@
     "size": 208074174,
     "sha256": "b369487cae9c3da3374674873dc5a0624117f116510802ca7ce9ee9cb31e6f6b",
     "url": "https://cdn.azul.com/zulu/bin/zulu22.0.85-beta-jdk22.0.0-beta.34-win_x64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "zulu",
+    "version": "21.0.13.1+2",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 211168365,
+    "sha256": "14e7a0395df4f09b508d50aa65a858650d59eb8d2221df57b4742d0830f3a3a0",
+    "url": "https://cdn.azul.com/zulu/bin/zulu21.54.201-ca-jdk21.0.13.1-win_x64.zip"
   },
   {
     "tool": "java",
@@ -754,6 +790,18 @@
     "size": 195574689,
     "sha256": "ca502fe007ffbd246165831cf190a0956f486ec24a86409667d327187889e476",
     "url": "https://cdn.azul.com/zulu/bin/zulu18.0.79-ea-jdk18.0.0-ea.35-win_x64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "zulu",
+    "version": "17.0.21.1+2",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 196357029,
+    "sha256": "78865bdbc82b1164e475c36d471f53880250a768385bc8e4132598d75b58bc36",
+    "url": "https://cdn.azul.com/zulu/bin/zulu17.70.201-ca-jdk17.0.21.1-win_x64.zip"
   },
   {
     "tool": "java",
@@ -1634,6 +1682,18 @@
   {
     "tool": "java",
     "vendor": "zulu",
+    "version": "11.0.33.1+1",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 198472511,
+    "sha256": "0d31b8bee79e662ba51093a1adf1fe8f5ffe80cfb47e7a81cb4b938653dda302",
+    "url": "https://cdn.azul.com/zulu/bin/zulu11.92.201-ca-jdk11.0.33.1-win_x64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "zulu",
     "version": "11.0.33+10",
     "os": "windows",
     "arch": "x64",
@@ -2278,6 +2338,18 @@
     "size": 192460073,
     "sha256": "7cb3a37e3c93b56bb40b9d165f0490b47019feae898eb6896c3705002369a813",
     "url": "https://cdn.azul.com/zulu/bin/zulu9.0.0.15-ca-jdk9.0.0-win_x64.zip"
+  },
+  {
+    "tool": "java",
+    "vendor": "zulu",
+    "version": "8.0.514+1",
+    "os": "windows",
+    "arch": "x64",
+    "release_status": "ga",
+    "lts": true,
+    "size": 108747555,
+    "sha256": "ab833a2af66a80e003dacc97c598eaa8fa1a54c2be441e661ef80214eba99a97",
+    "url": "https://cdn.azul.com/zulu/bin/zulu8.98.0.201-ca-jdk8.0.514-win_x64.zip"
   },
   {
     "tool": "java",
